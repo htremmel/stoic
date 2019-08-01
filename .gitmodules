@@ -1,0 +1,6 @@
+[submodule "stoic-thoughts"]
+	path = stoic-thoughts
+	url = https://github.com/ersel/stoic-thoughts.git
+[submodule "daily-stoic"]
+	path = daily-stoic
+	url = https://github.com/krasimir/daily-stoic.git
